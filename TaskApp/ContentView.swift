@@ -4,13 +4,18 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    var taskStore: TaskStore
+    
     var body: some View {
-        Text("Hello, World!")
+        List(taskStore.tasks) { task in
+            Text(task.name)
+        }
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        ContentView(taskStore: TaskStore())
     }
 }
