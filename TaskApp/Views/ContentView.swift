@@ -11,15 +11,11 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             List {
-                ForEach(taskStore.tasks) { index in
-                    RowView(task: self.$taskStore.tasks[index])
+                ForEach(taskStore.prioritizedTasks) { index in
+                    SectionView(prioritizedTasks: self.$taskStore.prioritizedTasks[index])
                 }
-                .onMove { sourceIndices, destinationIndex in
-                    self.taskStore.tasks.move(fromOffsets: sourceIndices, toOffset: destinationIndex)
-                }
-                .onDelete { indexSet in
-                    self.taskStore.tasks.remove(atOffsets: indexSet)}
             }
+            .listStyle(GroupedListStyle())
             .navigationBarTitle("Tasks")
             .navigationBarItems(
                 leading: EditButton(),
