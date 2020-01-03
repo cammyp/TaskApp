@@ -18,15 +18,19 @@ Add, delete, and rearrange various daily tasks that you need to complete. TaskAp
 
 - Phase 1
 
-![img](https://i.imgur.com/gdCjFROm.png)
-![img](https://i.imgur.com/A1egcBgm.png)
-![img](https://i.imgur.com/8V03Dy4m.png)
-
-- Phase 2
 ![img](https://i.imgur.com/akRcw4Um.png)
 ![img](https://i.imgur.com/9CiLT3Fm.png)
 ![img](https://i.imgur.com/E7fj7yDm.png)
 
+
+- Phase 2
+
+![img](https://i.imgur.com/gdCjFROm.png)
+![img](https://i.imgur.com/A1egcBgm.png)
+![img](https://i.imgur.com/8V03Dy4m.png)
+
+
 - Phase 3
+
 ![img](https://i.imgur.com/u60cfj9m.png)
 
