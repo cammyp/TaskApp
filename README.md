@@ -16,9 +16,9 @@ Add, delete, and rearrange various daily tasks that you need to complete. TaskAp
 
 # Learning Points 
 
--- Phase 1
+--Phase 1
 
--- Phase 2
+--Phase 2
 
--- Phase 3
+--Phase 3
 
