@@ -16,9 +16,20 @@ Add, delete, and rearrange various daily tasks that you need to complete. TaskAp
 
 # Learning Points 
 
-Phase 1
+- Phase 1
 
-Phase 2
+![img](https://i.imgur.com/9CiLT3Fm.png)
+![img](https://i.imgur.com/akRcw4Um.png)
 
-Phase 3
+
+- Phase 2
+
+![img](https://i.imgur.com/gdCjFROm.png)
+![img](https://i.imgur.com/A1egcBgm.png)
+
+
+- Phase 3
+
+![img](https://i.imgur.com/E7fj7yDm.png)
+![img](https://i.imgur.com/u60cfj9m.png)
 
