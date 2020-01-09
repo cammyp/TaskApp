@@ -2,6 +2,8 @@
 
 ✅ iOS app exercises with Enums, Nested Types, Extensions, Protocols and Closures 
 
+![img](https://i.imgur.com/oX7hIzVm.png)
+
 # Getting Started
 
 ⬇️ Download the project and open it in XCode. Make sure you run the application on a iOS device📱that supports iOS 13 or later.
@@ -32,4 +34,15 @@ Add, delete, and rearrange various daily tasks that you need to complete. TaskAp
 
 ![img](https://i.imgur.com/E7fj7yDm.png)
 ![img](https://i.imgur.com/u60cfj9m.png)
+
+- Phase 4
+
+![img](https://i.imgur.com/AJ2RLjbm.png)
+![img](https://i.imgur.com/Fw2kNwTm.png)
+
+- Phase 5
+
+![img](https://i.imgur.com/sj7wtPNm.png)
+![img](https://i.imgur.com/adMrgekm.png)
+
 
