@@ -35,10 +35,12 @@ Add, delete, and rearrange various daily tasks that you need to complete. TaskAp
 ![img](https://i.imgur.com/E7fj7yDm.png)
 ![img](https://i.imgur.com/u60cfj9m.png)
 
+
 - Phase 4
 
 ![img](https://i.imgur.com/AJ2RLjbm.png)
 ![img](https://i.imgur.com/Fw2kNwTm.png)
+
 
 - Phase 5
 
